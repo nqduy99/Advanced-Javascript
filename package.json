@@ -1,0 +1,25 @@
+{
+  "name": "AdvancedJavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nqduy99/Advanced-Javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nqduy99/Advanced-Javascript/issues"
+  },
+  "homepage": "https://github.com/nqduy99/Advanced-Javascript#readme"
+}
